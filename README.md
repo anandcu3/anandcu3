@@ -4,6 +4,8 @@
 
 🌍 Finland | [LinkedIn](https://www.linkedin.com/in/anandcu3/)
 
+![](https://komarev.com/ghpvc/?username=anandcu3)
+
 ## About Me
 
 I'm a Machine Learning Tech Lead with extensive experience in deep learning, computer vision, and speech recognition. My expertise lies in scaling and optimizing ML models for production environments, particularly in processing large-scale LiDAR and image data. With a passion for open-source contributions, I seek to collaborate and share my knowledge within the community and learn from them. 
